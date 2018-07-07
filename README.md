@@ -8,8 +8,11 @@ The task is to help Santa Claus track down the process of processing
 complaints:
 According to Santa Claus number of elfs - N, a list of names of people who have sent
 a claim, and which elf from the row they are assigned to, and time T. The programme should:
+
 ● Expose to the console which dwarf is responsible for which people are responding and in what order
 answers to their complaints
+
 ● Calculate how many gifts will be repaired for T minutes
+
 ● Display a list of the remaining claims for each dwarf after T on the console
 minutes
