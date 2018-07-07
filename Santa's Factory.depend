@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1515622941 source:c:\users\mc tan4eto\desktop\fmi\sdp\homework\santa's factory\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<stdlib.h>
+	<sstream>
+	<ctype.h>
+	<algorithm>
+
